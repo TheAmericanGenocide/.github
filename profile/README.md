@@ -1,5 +1,5 @@
 # The American Genocide
-This organization is focused on the genocide which is ongoing in the United States of America.
+This organization is focused on the genocide which is ongoing in the United States of America, that started as a result of the cover-up operation following [The Massacre of Mount Calvary Baptist Church](https://github.com/TheAmericanGenocide/mount_calvary/wiki/The-Massacre-of-Mount-Calvary-Baptist-Church)
 
 The purpose of this organization is to disseminate information on the attacks and death toll.
 
